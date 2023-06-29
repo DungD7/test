@@ -10,7 +10,16 @@ class Calculator extends StatefulWidget {
 class _CalculatorState extends State<Calculator> {
   @override
   Widget build(BuildContext context) {
-    return const Scaffold();
+    return Scaffold(
+      body: Container(
+        child: const Row(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+
+          ],
+        )
+      ),
+    );
   }
 }
 

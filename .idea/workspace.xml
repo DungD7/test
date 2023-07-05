@@ -9,7 +9,16 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32c9c4ec-2f59-41db-b90d-17188ffc5a6c" name="Changes" comment="">
+    <list default="true" id="32c9c4ec-2f59-41db-b90d-17188ffc5a6c" name="Changes" comment="5/7">
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/53aa2809fcb080ac442571b06edac0b4/.filecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/53aa2809fcb080ac442571b06edac0b4/app.dill" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/53aa2809fcb080ac442571b06edac0b4/debug_android_application.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/53aa2809fcb080ac442571b06edac0b4/flutter_assets.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/53aa2809fcb080ac442571b06edac0b4/gen_dart_plugin_registrant.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/53aa2809fcb080ac442571b06edac0b4/gen_localizations.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/53aa2809fcb080ac442571b06edac0b4/kernel_snapshot.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/53aa2809fcb080ac442571b06edac0b4/kernel_snapshot.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/53aa2809fcb080ac442571b06edac0b4/outputs.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/f733f999ba7aa0850d48d35081b719eb/.filecache" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/f733f999ba7aa0850d48d35081b719eb/app.dill" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/f733f999ba7aa0850d48d35081b719eb/debug_android_application.stamp" afterDir="false" />
@@ -19,6 +28,50 @@
       <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/f733f999ba7aa0850d48d35081b719eb/kernel_snapshot.d" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/f733f999ba7aa0850d48d35081b719eb/kernel_snapshot.stamp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/f733f999ba7aa0850d48d35081b719eb/outputs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/pub/bin/flutter_native_splash/create.dart-3.1.0-2.0.dev.snapshot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/7.5/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/7.5/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/7.5/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/7.5/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/7.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/7.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/7.5/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/7.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/7.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/7.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/7.5/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-hdpi/android12splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-mdpi/android12splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-night-hdpi/android12splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-night-mdpi/android12splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-night-xhdpi/android12splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-night-xxhdpi/android12splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-night-xxxhdpi/android12splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-v21/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-xhdpi/android12splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-xxhdpi/android12splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-xxxhdpi/android12splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values-night-v31/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values-v31/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bg_splash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bkg_splash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/splash.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/54e33259bfccd550dd79047faaefaef5.cache.dill.track.dill" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/76da9ad741eb1bdd305f2e68c0810c63/_composite.stamp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/76da9ad741eb1bdd305f2e68c0810c63/gen_dart_plugin_registrant.stamp" afterDir="false" />
@@ -31,6 +84,9 @@
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/AssetManifest.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/FontManifest.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/NOTICES.Z" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/assets/bg_splash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/assets/bkg_splash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/assets/splash.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/isolate_snapshot_data" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" afterDir="false" />
@@ -42,6 +98,9 @@
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/AssetManifest.json.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/FontManifest.json.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/NOTICES.Z.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/bg_splash.jpg.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/bkg_splash.jpg.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/splash.png.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/isolate_snapshot_data.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/kernel_blob.bin.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf.jar" afterDir="false" />
@@ -60,6 +119,9 @@
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/AssetManifest.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/FontManifest.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/NOTICES.Z" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/assets/bg_splash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/assets/bkg_splash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/assets/splash.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/isolate_snapshot_data" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" afterDir="false" />
@@ -83,6 +145,7 @@
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/CklFfHplca5tYuiojSZbZVAhNa4=" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/ECajbdhp5UImvGc0U0GCOd1iQTo=" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/EfIIhH_eOlkvsisscf_geoU2hnU=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/GoiijhgBGv514xTQkgo_mGNNQPA=" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/Jq17clkZ_fdthIMRJ3L9+meYN98=" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/Pr+Qo2eaI_Indbor3Q+UNptqtTk=" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/QPQ9_YXgPnie998hSBm5S6oa4zk=" afterDir="false" />
@@ -99,10 +162,13 @@
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/hE_Bstkv_Lw6uRetj1g7LAXeWTE=" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/jL4jQsvV2X65i55P9hBggIgCjlY=" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/pK0cW3XujniuKT_7MW2aBvfOVvA=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/qY9J6VRTN+kJD6r5GUTVIAwRLWk=" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/uOJNLrOEwbdupggkDGSEzh_UZ0k=" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/ujjPdGs7X5O7I75jAZOjwz1NywA=" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-night-v31/values-night-v31.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v31/values-v31.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merger.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
@@ -110,6 +176,7 @@
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/processDebugResources/resources-list-for-resources-debug.ap_.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/javac/debug/classes/com/example/caculator/BuildConfig.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/javac/debug/classes/io/flutter/plugins/GeneratedPluginRegistrant.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
@@ -120,7 +187,19 @@
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_native_libs/debug/out/lib/arm64-v8a/libflutter.so" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_native_libs/debug/out/lib/x86/libflutter.so" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_native_libs/debug/out/lib/x86_64/libflutter.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/drawable-hdpi_android12splash.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/drawable-mdpi_android12splash.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/drawable-night-hdpi_android12splash.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/drawable-night-mdpi_android12splash.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/drawable-night-xhdpi_android12splash.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/drawable-night-xxhdpi_android12splash.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/drawable-night-xxxhdpi_android12splash.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/drawable-v21_background.png.flat" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/drawable-v21_launch_background.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/drawable-xhdpi_android12splash.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/drawable-xxhdpi_android12splash.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/drawable-xxxhdpi_android12splash.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/drawable_background.png.flat" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/drawable_launch_background.xml.flat" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat" afterDir="false" />
@@ -183,6 +262,7 @@
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-my_values-my.arsc.flat" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-nb_values-nb.arsc.flat" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-ne_values-ne.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-night-v31_values-night-v31.arsc.flat" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-night-v8_values-night-v8.arsc.flat" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-nl_values-nl.arsc.flat" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-or_values-or.arsc.flat" afterDir="false" />
@@ -210,6 +290,7 @@
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-uz_values-uz.arsc.flat" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-v16_values-v16.arsc.flat" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-v21_values-v21.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-v31_values-v31.arsc.flat" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-vi_values-vi.arsc.flat" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-zh-rCN_values-zh-rCN.arsc.flat" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-zh-rHK_values-zh-rHK.arsc.flat" afterDir="false" />
@@ -273,6 +354,7 @@
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-my.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-nb.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ne.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-night-v31.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-night-v8.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-nl.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-or.json" afterDir="false" />
@@ -300,6 +382,7 @@
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-uz.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v16.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v21.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v31.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-vi.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zh-rCN.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zh-rHK.json" afterDir="false" />
@@ -312,15 +395,20 @@
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/packaged_manifests/debug/output-metadata.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/processed_res/debug/out/output-metadata.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/project_dex_archive/debug/out/17aa20d3aaa4ce11f90b9e6f2a0b4829efa92aa2c40b90299eb760bcee0b4a23_0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/project_dex_archive/debug/out/17aa20d3aaa4ce11f90b9e6f2a0b4829efa92aa2c40b90299eb760bcee0b4a23_1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/project_dex_archive/debug/out/MainActivity.dex" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/project_dex_archive/debug/out/com/example/caculator/BuildConfig.dex" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/project_dex_archive/debug/out/io/flutter/plugins/GeneratedPluginRegistrant.dex" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/runtime_symbol_list/debug/R.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/signing_config_versions/debug/signing-config-versions.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/source_set_path_map/debug/file-map.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/stable_resource_ids_file/debug/stableIds.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/stripped_native_libs/debug/out/lib/arm64-v8a/libflutter.so" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/stripped_native_libs/debug/out/lib/x86/libflutter.so" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/stripped_native_libs/debug/out/lib/x86_64/libflutter.so" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/variant_model/debug/out" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
@@ -390,6 +478,8 @@
       <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
@@ -406,9 +496,52 @@
       <change afterPath="$PROJECT_DIR$/build/app/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/tmp/kotlin-classes/debug/META-INF/app_debug.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/tmp/kotlin-classes/debug/MainActivity.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/tmp/packLibsflutterBuildDebug/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/.transforms/433a8bac0ee6796815f842fc4dcb623f/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/.transforms/433a8bac0ee6796815f842fc4dcb623f/transformed/classes/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/.transforms/5d30987033ec490da83c1aae2899a17e/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/.transforms/5d30987033ec490da83c1aae2899a17e/transformed/debug/net/jonhanson/flutter_native_splash/BuildConfig.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/.transforms/5d30987033ec490da83c1aae2899a17e/transformed/debug/net/jonhanson/flutter_native_splash/FlutterNativeSplashPlugin.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/.transforms/5d30987033ec490da83c1aae2899a17e/transformed/desugar_graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/.transforms/c9bbd76c8085ca66d8cea609cb907737/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/generated/source/buildConfig/debug/net/jonhanson/flutter_native_splash/BuildConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/intermediates/aar_main_jar/debug/classes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/intermediates/aar_metadata/debug/aar-metadata.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/intermediates/annotation_processor_list/debug/annotationProcessors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/intermediates/annotations_typedef_file/debug/typedefs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/intermediates/compile_library_classes_jar/debug/classes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/intermediates/compile_r_class_jar/debug/R.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/intermediates/compile_symbol_list/debug/R.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/intermediates/incremental/debug/packageDebugResources/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/intermediates/incremental/packageDebugAssets/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/intermediates/javac/debug/classes/net/jonhanson/flutter_native_splash/BuildConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/intermediates/javac/debug/classes/net/jonhanson/flutter_native_splash/FlutterNativeSplashPlugin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/intermediates/local_only_symbol_list/debug/R-def.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/intermediates/merged_java_res/debug/feature-flutter_native_splash.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/intermediates/merged_manifest/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/intermediates/navigation_json/debug/navigation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/intermediates/packaged_manifests/debug/output-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/intermediates/runtime_library_classes_dir/debug/net/jonhanson/flutter_native_splash/BuildConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/intermediates/runtime_library_classes_dir/debug/net/jonhanson/flutter_native_splash/FlutterNativeSplashPlugin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/intermediates/runtime_library_classes_jar/debug/classes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/outputs/aar/flutter_native_splash-debug.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_native_splash/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/last_build_run.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchBackground.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchBackground.imageset/background.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lib/ButtonCalculator.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/generated/assets.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/splash/img/light-background.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../crazy_quiz/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../crazy_quiz/.metadata" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../crazy_quiz/README.md" afterDir="false" />
@@ -935,7 +1068,7 @@
       <change beforePath="$PROJECT_DIR$/.dart_tool/dartpad/web_plugin_registrant.dart" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/dartpad/web_plugin_registrant.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config_subset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -1036,6 +1169,14 @@
       <option name="presentableId" value="Default" />
       <updated>1688025699535</updated>
     </task>
+    <task id="LOCAL-00001" summary="5/7">
+      <created>1688542334980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688542334980</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1048,5 +1189,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="5/7" />
+    <option name="LAST_COMMIT_MESSAGE" value="5/7" />
   </component>
 </project>
